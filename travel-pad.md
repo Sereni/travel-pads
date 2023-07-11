@@ -45,7 +45,7 @@ The panels are laser-cut acrylic of varied thickness (more on that later).
 Here are the [drawings for laser cutting](https://cad.onshape.com/documents/4f4f7c02e75b1c43639cfe17/w/a39e86fb38e2100b868e28ef/e/c6c7652937759c546924c0b4?renderMode=0&uiState=64ac2b52e79b6d6e9e25d7ee).
 
 #### FSR
-All of the pads I made use force-sensitive resistors as sensors. If this is new to you, read the [FSR pad guide](sereni.github.io/fsr-pad-guide). FSRs are responsive, small, and their sensitivity can be adjusted digitally.
+All of the pads I made use force-sensitive resistors as sensors. If this is new to you, read the [FSR pad guide](https://sereni.github.io/fsr-pad-guide). FSRs are responsive, small, and their sensitivity can be adjusted digitally.
 
 #### Arduino and PCB
 This is an Arduino Pro Micro with [XeaL's PCB](https://github.com/alex-ong/ddr_pcb). I soldered it the wrong side up to sandwich the USB port between PCBs and save a few mm of height. The total thickness is 9 mm, and it tucks under the center panel. I used a [clever test](small/lipstick.jpeg) to make sure the board doesn't touch the center panel and short something accidentally.
