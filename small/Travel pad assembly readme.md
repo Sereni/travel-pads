@@ -14,9 +14,15 @@ This is the top-most layer of the pad. You can see the square bits that will sup
 > [!WARNING] 
 > On this sketch, you should only cut the outer border and the PCB-cable hole. The square and rectangular bits should be **engraved** (use your laser cutter software) or removed altogether. They are just there to help position the details you will cut in Layer 4. They are not supposed to be holes.
 
-
 ## Layer 4a: Supports
 And these are all the extra square and rectangular bits mentioned in Layer 3, lumped together. Not sure why I made so many, probably spares. They will hold your sensors and velcro.
-
 ## Layer 4b: Borders
 These are the outer borders of the pad. They go on top of Layer 3 when everything is assembled. There are a couple spares. I used three layers of border on every side except the back, which uses 4 to prevent the back panel from being kicked over. The ones with the holes go on the USB side, I used two layers with a hole, and I put a solid one on the top to cover it up.
+# Panels
+Use this sketch as a starting point for your panels. These are all panels laid out for cutting; the bottom three are top and left/right. The top stuff is the bottom panel plus a number of heel guards to glue on top of it. Consider whether you need heel guards them before cutting. Also consider if you want corners of your panels cut off similar to the arcade machine, or not.
+
+Panels are best made out of acrylic / plexiglass. 
+> [!WARNING]
+> Make sure to get safe materials from a trusted soruce — some things that look like plexiglass can emit nasty fumes and kill you and/or your laser cutter.
+
+One design drawback of this pad is that panel height cannot be adjusted. What this means, is you will need to cut a whole bunch of panels of different thicknesses and try what suits you. Acrylic doesn't come in small thickness increments, so you may need to glue panel cuts together to get the exact thickness you want. Superglue works well.
