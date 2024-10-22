@@ -42,7 +42,7 @@ The base consists of 3 layers of 4 mm ply glued together. I used wood glue and k
 
 The panels are laser-cut acrylic of varied thickness (more on that later).
 
-Here are the [drawings for laser cutting](https://cad.onshape.com/documents/4f4f7c02e75b1c43639cfe17/w/a39e86fb38e2100b868e28ef/e/c6c7652937759c546924c0b4?renderMode=0&uiState=64ac2b52e79b6d6e9e25d7ee).
+Here are the [drawings for laser cutting](https://cad.onshape.com/documents/4f4f7c02e75b1c43639cfe17/w/a39e86fb38e2100b868e28ef/e/c6c7652937759c546924c0b4?renderMode=0&uiState=64ac2b52e79b6d6e9e25d7ee). Here are some [notes](small/Travel%20pad%20assembly%20readme.md) to make sense of the drawings.
 
 #### FSR
 All of the pads I made use force-sensitive resistors as sensors. If this is new to you, read the [FSR pad guide](https://sereni.github.io/fsr-pad-guide). FSRs are responsive, small, and their sensitivity can be adjusted digitally.
